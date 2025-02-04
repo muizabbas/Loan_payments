@@ -1,0 +1,1 @@
+In this project, I used SQL Server to clean and analyze loan payments data, ensuring consistency by addressing missing values, duplicates, and incorrect formats. I am currently working on exploratory analysis to uncover trends in loan repayments, past-due patterns, and customer demographics. The full analysis will be uploaded soon.
